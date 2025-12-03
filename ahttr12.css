@@ -659,7 +659,7 @@ span.flex-grow-1.dots {
 button.ae.fa.label.label-primary.fa-user {
     height: 27px;
     border-radius: 3px!important;
-    width: 15%!important;
+    width: 20%!important;
 }
 
 ::before {
@@ -677,7 +677,7 @@ span#busers {
 button#pmb {
     height: 27px;
     border-radius: 3px!important;
-    width: 15%!important;
+    width: 20%!important;
     padding: 0px;
 }
 
@@ -695,21 +695,21 @@ span {
 button#brooms {
     height: 27px;
     border-radius: 3px!important;
-    width: 15%!important;
+    width: 20%!important;
     padding: 0px;
 }
 
 button.ae.fa.label.label-primary.fa-commenting {
     height: 27px;
     border-radius: 3px!important;
-    width: 15%!important;
+    width: 20%!important;
     padding: 0px;
 }
 
 button.ae.label.label-primary.fa.fa-gear {
     height: 27px;
     border-radius: 3px!important;
-    width: 15%!important;
+    width: 20%!important;
     padding: 0px;
 }
 
